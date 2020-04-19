@@ -76,3 +76,6 @@ if __name__ == '__main__':
     person1.weight = 98
     person1.height = 1.8
     print(person1.bmi(), person1.name)
+    person2 = Person('Wim Tas')
+    person2.height = 1.7
+    person2.weight = 78
